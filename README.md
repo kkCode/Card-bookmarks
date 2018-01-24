@@ -19,4 +19,4 @@
 ## 下载
 这个应用已经上架到了 Chrome Webstore，如果你有需要，欢迎使用 [Webstore链接](https://chrome.google.com/webstore/detail/card-bookmarks/dkeildaicdhjaboibehldcancpkafnfl)
 
-如果无法打开 Webstore 链接，也可以在[这里](https://github.com/kkCode/Card-bookmarks/files/1660153/card_bookmarks.zip)下载，下载完成后解压，然后在浏览器打开 chrome://extensions/，拖动解压完成 crx 文件到这个页面进行安装
+如果无法打开 Webstore 链接，也可以在[这里](https://github.com/kkCode/Card-bookmarks/files/1660153/card_bookmarks.zip)下载，下载完成后解压，然后在浏览器打开 chrome://extensions/，拖动解压文件夹里的 crx 文件到这个页面进行安装
