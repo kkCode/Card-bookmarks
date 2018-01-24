@@ -9,6 +9,7 @@
 * 归档，可以对书签进行分类，移动到同类文件夹
 *  删除，这个似乎没有什么特别要说的
 * 简单统计了每天打开过的标签数量
+
 如果你的书签比较多，“卡片书签”还支持切换到更大的视图
 ![](https://github.com/kkCode/Card-bookmarks/blob/master/image/big.png)
 
