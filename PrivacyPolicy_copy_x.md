@@ -1,6 +1,6 @@
 # 隐私政策
-#### 更新日期：2018年8月14日
-#### 生效日期：2018年8月14日
+#### 更新日期：2020年8月14日
+#### 生效日期：2020年8月14日
 Copy X 是一个剪贴板扩展，可以记录您在网页上复制的内容，并支持进行处理，比如编辑、提取、切割、合并等
 
 ### 访问的信息
@@ -39,8 +39,8 @@ Copy X 是一个剪贴板扩展，可以记录您在网页上复制的内容，�
 
 
 # Privacy Policy
-#### Updated: August 14th, 2018
-#### Effective date: August 14, 2018
+#### Updated: August 14th, 2020
+#### Effective date: August 14, 2020
 Copy X is a clipboard extension, which can record the content you copied on the web page and support processing, such as editing, extracting, cutting, merging and so on
 
 ### Information accessed
