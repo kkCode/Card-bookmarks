@@ -36,3 +36,43 @@ Copy X 是一个剪贴板扩展，可以记录您在网页上复制的内容，�
 
 ### 与我们联系
 如您需要与我们进行联系，请发送邮件到 pinbo252@139.com。
+
+
+# Privacy Policy
+# # # # Updated: August 14th, 2018
+# # # # Effective date: August 14, 2018
+Copy X is a clipboard extension, which can record the content you copied on the web page and support processing, such as editing, extracting, cutting, merging and so on
+
+# # # Information accessed
+The information accessed by this application during use is as follows:
+When you copy text content on a web page, you will read the selected content (clipboard data will be read when global mode is turned on) and the title and link of the current web page, and store these data locally
+
+# # # Information collected
+The information that this application may collect during use is as follows:
+-When you log in to the application using a third-party account, the application will obtain the nickname, openID and other basic information of the account, and at the same time, the relevant account information will be saved on the server to record the cloud service usage and other data of the account;
+-When you log in to this application and upload your data to the cloud, your data will be saved in the cloud so that you can migrate the data to other clients;
+
+# # # Storage of information
+-type of information store:
+When you upload data to the cloud through client settings > export data > export to cloud, the uploaded data includes: common information, clipboard list, data processing configuration information, etc.
+-Duration of information storage:
+After uploading, it will be saved for 30 days, and then it will be automatically deleted
+
+# # # Information security
+We strive to provide security for users' information, so as to prevent the loss, improper use, unauthorized access or disclosure of information.
+We will use various security measures within a reasonable security level to ensure the security of information. For example, we will use encryption technology (such as SSL), anonymous processing and other means to protect your personal information.
+
+# # # How do we use information
+At present, the information you uploaded is stored in the cloud and will not be used for other purposes.
+
+# # # Your rights
+You can delete cloud data at any time, and it cannot be recovered after deletion.
+
+# # # Protection of minors
+According to relevant laws and regulations, if you are a minor, you should obtain the consent of your parents or legal guardians before using this application and service. If you are the guardian of a minor, if you have any questions about the personal information of the minor under your supervision, please contact the developer through contact information.
+
+# # # Change
+We may revise this policy in due course. When the terms are changed, we will show them again.
+
+# # # Contact us
+If you need to contact us, please send an email to pinbo252@139.com.
