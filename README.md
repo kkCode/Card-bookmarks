@@ -14,7 +14,7 @@
 ![](https://github.com/kkCode/Card-bookmarks/blob/master/image/big.png)
 
 ## 信息安全
-特别说明，“卡片书签”没有任何需要网络的操作，不会上传任何数据到服务器(update: 现在的新版本加入了云服务，当使用了云服务时，会和服务器连接，相关隐私政策你可以在[这里](https://github.com/kkCode/Card-bookmarks/blob/master/PrivacyPolicy.md)查看)
+特别说明，“卡片书签”没有任何需要网络的操作，不会上传任何数据到服务器（update: 现在的新版本加入了云服务，当使用了云服务时，会和服务器连接，相关隐私政策你可以在[这里](https://github.com/kkCode/Card-bookmarks/blob/master/PrivacyPolicy.md)查看）
 
 ## 下载
 这个应用已经上架到了 Chrome Webstore，如果你有需要，欢迎使用 [Webstore链接](https://chrome.google.com/webstore/detail/card-bookmarks/dkeildaicdhjaboibehldcancpkafnfl)
