@@ -2,7 +2,7 @@
 #### Card bookmarks and Copy X's privacy policy
 
 # 卡片书签
-## 隐私政策
+### 隐私政策
 #### 更新日期：2018年8月14日
 #### 生效日期：2018年8月14日
 卡片书签是一款浏览器书签扩展，为说明卡片书签会如何访问、收集、使用和存储您的个人信息及您享有何种权利，现将通过本隐私政策向您进行说明。
@@ -46,7 +46,7 @@
 
 
 # Card bookmarks
-## Privacy policy
+### Privacy policy
 #### Updated: August 14, 2018
 #### Effective date: August 14, 2018
 Card bookmark is a browser bookmark extension. In order to explain how the card bookmark will access, collect, use and store your personal information and what rights you enjoy, this privacy policy will be used to explain to you.
